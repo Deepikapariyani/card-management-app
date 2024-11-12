@@ -7,7 +7,6 @@ A Vue 3 application to manage credit and debit card information. This project pr
 - [Installation](#installation)
 - [Scripts](#scripts)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 
 ## Features
